@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+=======
+# Interstia
+The best way to connect people and explore the questions or doubts around the existing technologies by joining the existing communities or else u can create a community and raise the doubts
+>>>>>>> e66b7a8c2cf99cc4f3324bdad13d2842fc9ee099
